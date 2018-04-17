@@ -1,0 +1,15 @@
+{
+  "name": "keibob",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ilhaera@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "then-request": "^6.0.0"
+  }
+}
