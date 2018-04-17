@@ -1,7 +1,7 @@
 # 초경량 급식조회
 
 ## 설치
-sudo mpm i -g keibob
+sudo npm i -g keibob
 
 ## 실행
 ```bash
